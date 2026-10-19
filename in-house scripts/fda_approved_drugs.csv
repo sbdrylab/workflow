@@ -229,7 +229,6 @@ CRINECERFONT,C#CCN(c1nc(-c2cc(C)c(OC)cc2Cl)c(C)s1)[C@@H](CC1CC1)c1ccc(C)c(F)c1,I
 CRISABOROLE,N#Cc1ccc(Oc2ccc3c(c2)COB3O)cc1,USZAGAREISWJDP-UHFFFAOYSA-N,PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/44591583
 CRIZOTINIB,C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl,KTEIFNKAUNYNJU-GFCCVEGCSA-N,PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/11626560
 CROMOLYN,O=C(O)c1cc(=O)c2c(OCC(O)COc3cccc4oc(C(=O)O)cc(=O)c34)cccc2o1,IMZMKUWMOSJXDT-UHFFFAOYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/c2e7390b-9591-46da-ab60-9dce0e9de96a
-CROTAMITON,CC=CC(=O)N(CC)c1ccccc1C,DNTGGZPQPQTDQF-UHFFFAOYSA-N,PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/2883
 CYCLOBENZAPRINE,CN(C)CCC=C1c2ccccc2C=Cc2ccccc21,JURKNVYFZMSNLP-UHFFFAOYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/4836426c-68b8-4444-9c3c-79b6d95c3f86
 CYCLOPENTOLATE,CN(C)CCOC(=O)C(c1ccccc1)C1(O)CCCC1,SKYSRIRYMSLOIN-UHFFFAOYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/98f89066-455a-4aa2-ae59-67bf2d4d8a5a
 CYCLOPHOSPHAMIDE,O=P1(N(CCCl)CCCl)NCCCO1,CMSMOCZEIVJLDB-UHFFFAOYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/6328cf48-cd59-41ef-9bb0-02831eb3aec1
@@ -266,7 +265,6 @@ DESVENLAFAXINE,CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1,KYYIDSXMWOZKMP-UHFFFAOYSA-N,pFDA/
 DEUCRAVACITINIB,[2H]C([2H])([2H])NC(=O)c1nnc(NC(=O)C2CC2)cc1Nc1cccc(-c2ncn(C)n2)c1OC,BZZKEPGENYLQSC-FIBGUPNXSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/f0a92acb-6155-4fb1-85f9-12b79cc3d689
 DEURUXOLITINIB,[2H]C1([2H])C([C@@H](CC#N)n2cc(-c3ncnc4[nH]ccc34)cn2)C([2H])([2H])C([2H])([2H])C1([2H])[2H],HFNKQEVNSGCOJV-FBXGHSCESA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/9df9e1b5-7d35-4e65-aa25-75ec3f998993
 DEUTETRABENAZINE,[2H]C([2H])([2H])Oc1cc2c(cc1OC([2H])([2H])[2H])[C@@H]1CC(=O)[C@@H](CC(C)C)CN1CC2,MKJIEFSOBYUXJB-WEZHFFAMSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/db47c164-5612-49e3-a12f-b3c592d543e6
-DEUTIVACAFTOR,[2H]C([2H])([2H])C(c1cc(C(C)(C)C)c(NC(=O)c2c[nH]c3ccccc3c2=O)cc1O)(C([2H])([2H])[2H])C([2H])([2H])[2H],PURKAOJPTOLRMP-ASMGOKTBSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/d4ef3b27-36bb-4e17-a8db-75a626950f79
 DEXAMETHASONE,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(O)C(=O)CO,UREBDLICKHMUKA-CXSFZGCWSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/681b3b7c-2a18-442f-a215-5105a536d929
 DEXCHLORPHENIRAMINE,CN(C)CC[C@@H](c1ccc(Cl)cc1)c1ccccn1,SOYKEARSMXGVTM-HNNXBMFYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/b0218e79-8f40-4975-b51d-96afeeb63070
 DEXLANSOPRAZOLE,Cc1c(OCC(F)(F)F)ccnc1C[S@@+]([O-])c1nc2ccccc2[nH]1,MJIHNNLFOKEZEW-RUZDIDTESA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/7c46c598-c893-49b0-88ba-b4b05b304af4
@@ -813,8 +811,6 @@ PYRIMETHAMINE,CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1,WKSAUQYGYAYLPV-UHFFFAOYSA-N,pFDA/GSR
 QUAZEPAM,Fc1ccccc1C1=NCC(=S)N(CC(F)(F)F)c2ccc(Cl)cc21,IKMPWMZBZSAONZ-UHFFFAOYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/93211e82-10ec-485d-90eb-e5ad3550d20b
 QUETIAPINE,OCCOCCN1CCN(C2=Nc3ccccc3Sc3ccccc32)CC1,URKOMYMAXPYINW-UHFFFAOYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/b98bca06-28a3-4da1-9914-6264bf3b8231
 QUINAPRIL,CCOC(=O)[C@H](CCc1ccccc1)N[C@@H](C)C(=O)N1Cc2ccccc2C[C@H]1C(=O)O,JSDRRTOADPPCHY-HSQYWUDLSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/0b68bd19-55fe-4fc1-b30d-8fd4293ea844
-QUINIDINE,C=C[C@H]1C[N@@]2CC[C@H]1C[C@@H]2[C@@H](O)c1ccnc2ccc(OC)cc12,LOUPRKONTZGTKE-LHHVKLHASA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/304516ac-dac1-4749-a65f-dd2375b6bdfb
-QUININE,C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12,LOUPRKONTZGTKE-WZBLMQSHSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/4009ad5d-07b7-4532-8a11-a7e36088946e
 RABEPRAZOLE,COCCCOc1ccnc(C[S+]([O-])c2nc3ccccc3[nH]2)c1C,YREYEVIYCVEVJK-UHFFFAOYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/fc155b39-f61e-4241-a7ac-17b51eca5a82
 RALOXIFENE,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,GZUITABIAKMVPG-UHFFFAOYSA-N,pFDA/GSRS: https://precision.fda.gov/ginas/app/ui/substances/6e075469-84e0-46ff-b809-92f68feca9f7
 RALTEGRAVIR,Cc1nnc(C(=O)NC(C)(C)c2nc(C(=O)NCc3ccc(F)cc3)c(O)c(=O)n2C)o1,CZFFBEXEKNGXKS-UHFFFAOYSA-N,PubChem: https://pubchem.ncbi.nlm.nih.gov/compound/54671008
